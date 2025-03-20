@@ -2,6 +2,10 @@
   https://img.shields.io/badge/Open%20in%20GitHub%20Codespaces-333?logo=github)](
   https://codespaces.new/dwave-examples/coordinated-multipoint-notebook?quickstart=1)
 
+# Important note
+
+This repository is a fork of [D-Wave's original coordinated-multipoint-notebook](https://github.com/dwave-examples/coordinated-multipoint-notebook). The contributors to this fork do not claim ownership or authorship of the original codebase. All credit for the original work belongs to D-Wave Systems and its respective contributors.
+
 # Decoding Cellphone Signals
 
 In wireless networks, such as cellular and Wi-Fi networks, 
